@@ -1,6 +1,9 @@
 {
   "name": "weatherforecast",
   "version": "0.0.0",
+  "engines": {
+    "node": ">=v16.17.1"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
